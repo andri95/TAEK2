@@ -50,10 +50,15 @@ leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp tö
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst*
 
 Örgjörvi: intel i7 7700K 4.2 ~ 4.5 GHz / Tölvutækni / 43.900kr
+
 Móðurborð: Asus Z270-A Prime / Tölvutækni / 24.900kr
+
 Vinnsluminni: Corsair 16GB kit DDR4 3000MHz, Vengeance LPX / Tölvutækni / 25.900kr
+
 Skjákort: Gigabyte GeForce GTX 1070 OC / Tölvutek / 69.990kr
+
 Aflgjafi: Corsair AX760, 760W modular 80+ Platinum / Tölvutækni / 32.900kr
+
 Diskur: Crucial MX300 525GB 2.5" Solid-State SATA 6.0Gb/s SSD / Tölvutækni / 23.900kr
--------------------------------------------------------------------
+
 Samtals: 239.490kr

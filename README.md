@@ -8,3 +8,9 @@ Ram stendur fyrir Random Access Memory. RAM er physical memory inni í tölvu se
 *2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.*
 
 ROM stendur fyrir Read Only Memory. ROM er innbyggt minni sem inniheldur data sem venjulega geta bara verið lesin, en ekki breytt eða skrifuð. ROM inniheldur forrit sem meðal annars gerir tölvum kleift að kveikja á sér.
+
+*3. Hvað er fyrirbyggjandi viðhald?*
+
+Fyrirbyggjadi viðhald eru ýmsir hlutir sem hægt er að gera til að hægja á eða koma í veg fyrir að raftæki eða hugbúnaður skemmist. T.d. að rykhreinsa tölvu eða að uppfæra stýrikerfi.
+
+

@@ -13,4 +13,8 @@ ROM stendur fyrir Read Only Memory. ROM er innbyggt minni sem inniheldur data se
 
 Fyrirbyggjadi viðhald eru ýmsir hlutir sem hægt er að gera til að hægja á eða koma í veg fyrir að raftæki eða hugbúnaður skemmist. T.d. að rykhreinsa tölvu eða að uppfæra stýrikerfi.
 
+*4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?*
+
+ESD stendur fyrir Electrostatic discharge. Hægt að koma í veg fyrir með því að nota t.d. sérstök armbönd eða skó sem leiða vel.
 

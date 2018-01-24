@@ -31,3 +31,8 @@ ESD stendur fyrir Electrostatic discharge. Hægt að koma í veg fyrir með þv�
 -Búa til plan til að leysa vandamálið og koma lausninni inn.
 -Staðfesta að allt virki vel og gera það sem þú getur til að koma í veg fyrir að vandamálið komi aftur, t.d. uppfærsla á stýrikerfi.
 -Skrifa niður allt sem þú gerðir og útkomur.
+
+*7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.*
+
+Closed-ended spurningu er oftast hægt að svara með einföldu já eða nei. T.d. Ertu búinn að slökkva og kveikja á vélinni. Open-ended spurning þarf að svara með kannski 1-2 setningum. T.d. Hvað varstu að gera þegar þú tókst eftir biluninni?

@@ -18,3 +18,7 @@ verjast því þegar unnið er með tölvubúnað?*
 
 ESD stendur fyrir Electrostatic discharge. Hægt að koma í veg fyrir með því að nota t.d. sérstök armbönd eða skó sem leiða vel.
 
+*5. Hvað þarf að hafa í huga við val á spennugjöfum?*
+
+Það þarf aðallega að hafa í huga hve mörg hve öflugann spennugjafa þú þarft til að allur búnaður í tölvunni þinni fái nógann straum.
+

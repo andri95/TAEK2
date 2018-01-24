@@ -40,3 +40,8 @@ Closed-ended spurningu er oftast hægt að svara með einföldu já eða nei. T.
 *8. Hvað eru jaðartæki?*
 
 Jaðartæki sjá um samskipti milli þín og tölvunnar. Með þeim sendir þú gögn eða boð til tölvunnar. Jaðartæki eru ýmist innbyggð eða utan á lyggjandi. Innri eru t.d. harður diskur og ytri t.d. mús eða lyklaborð.
+
+*9. Nefndu þrjú dæmi um inntakstæki.*
+
+Lyklaborð, mús, hljóðnemi.
+

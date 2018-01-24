@@ -22,3 +22,12 @@ ESD stendur fyrir Electrostatic discharge. Hægt að koma í veg fyrir með þv�
 
 Það þarf aðallega að hafa í huga hve mörg hve öflugann spennugjafa þú þarft til að allur búnaður í tölvunni þinni fái nógann straum.
 
+*6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?*
+
+-Byrja á að taka afrit af gögnum á tölvunni.
+-Skilgreina vandamálið með hjálp eiganda vélarinnar, open-ended og close-ended spuringar.
+-Setja fram kenningar um líklegar orsakir vandamálsins.
+-Prufa kenningarnar, byrja á einföldustu, til að sjá hver orsökin er.
+-Búa til plan til að leysa vandamálið og koma lausninni inn.
+-Staðfesta að allt virki vel og gera það sem þú getur til að koma í veg fyrir að vandamálið komi aftur, t.d. uppfærsla á stýrikerfi.
+-Skrifa niður allt sem þú gerðir og útkomur.
